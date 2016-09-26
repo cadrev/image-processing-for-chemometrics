@@ -6,4 +6,9 @@ The goal is to perform chemometric analysis on images taken from an Android Phon
  
  
  <img src="https://github.com/cadrev/image-processing_for_chemometrics/blob/master/sample.png" width="300">
+ 
+ **To**
+ 
+  
+ <img src="https://github.com/cadrev/image-processing_for_chemometrics/blob/master/extract_sample.png" width="300">
 
